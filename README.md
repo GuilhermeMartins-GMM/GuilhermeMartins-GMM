@@ -1,14 +1,15 @@
-<p>
-  <strong><big>Hello, I'm GMM.</big></strong>
-</p>
+<div>
+  <big><big><strong>Hello, I'm GMM!</strong></big></big>
+</div>
 
-<p>
-  <strong>Guilherme Martins de Magalhães</strong>
-</p>
+<div>
+  <big><strong>Guilherme Martins de Magalhães</strong></big>
+</div>
 
-<p>
-  <strong>Chemistry | Competitive Programmer | Web</strong>
-</p>
+<div>
+  <big><strong>Chemistry | Competitive Programmer | Web</strong></big>
+</div>
+
 
 <p>
   <strong><big>Projects</big></strong>
