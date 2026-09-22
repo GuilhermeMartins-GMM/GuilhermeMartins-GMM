@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  <strong>Chemistry Student | Competitive Programmer | Web</strong>
+  <big>Chemistry Student | Competitive Programmer | Web</big>
 </p>
 
 <p>
