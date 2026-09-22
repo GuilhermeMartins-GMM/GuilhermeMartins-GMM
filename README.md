@@ -1,9 +1,6 @@
 <p>
-  <strong><big><big>Hello, I'm GMM.</big></big></strong>
-</p>
-
-<p>
-  <strong>Guilherme Martins de Magalhães</strong>
+  <strong><big><big>Hello, I'm GMM.</big></big></strong><br>
+  Guilherme Martins de Magalhães
 </p>
 
 <p>
