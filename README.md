@@ -1,10 +1,34 @@
-<h1>Hello, I'm GMM.</h1> <h2>Guilherme Martins de Magalhães</h2> <h3>Chemistry | Competitive Programmer | Web</h3> <h2>Projects</h2>
+<p>
+  <strong><big>Hello, I'm GMM.</big></strong>
+</p>
+
+<p>
+  <strong>Guilherme Martins de Magalhães</strong>
+</p>
+
+<p>
+  <strong>Chemistry | Competitive Programmer | Web</strong>
+</p>
+
+<p>
+  <strong><big>Projects</big></strong>
+</p>
 
 - **[guilhermemm.com](https://guilhermemm.com)** — My portfolio
 - **[Street OS](https://guilhermemartins-gmm.github.io/StreetOS/)** — A Web OS
 
-<h2>Technologies</h2>
+<p>
+  <strong><big>Technologies</big></strong>
+</p>
 
 In order of knowledge <-
 
-<p align="left"> <img src="https://cdn.simpleicons.org/cplusplus" width="42" height="42" style="border-radius: 12px;" title="C++" /> &nbsp; <img src="https://cdn.simpleicons.org/css" width="42" height="42" style="border-radius: 12px;" title="CSS" /> &nbsp; <img src="https://cdn.simpleicons.org/html5" width="42" height="42" style="border-radius: 12px;" title="HTML" /> &nbsp; <img src="https://cdn.simpleicons.org/javascript" width="42" height="42" style="border-radius: 12px;" title="JavaScript" /> </p>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/cplusplus" width="42" height="42" style="border-radius: 12px;" title="C++" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/css" width="42" height="42" style="border-radius: 12px;" title="CSS" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/html5" width="42" height="42" style="border-radius: 12px;" title="HTML" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/javascript" width="42" height="42" style="border-radius: 12px;" title="JavaScript" />
+</p>
