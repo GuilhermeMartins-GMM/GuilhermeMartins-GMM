@@ -1,13 +1,10 @@
-## Hello, I'm GMM!
-##### Guilherme Martins de Magalhães 
-
-###### Chemistry | Competitive Programmer | Web
-
-## Projects
+<h1>Hello, I'm GMM.</h1> <h2>Guilherme Martins de Magalhães</h2> <h3>Chemistry | Competitive Programmer | Web</h3> <h2>Projects</h2>
 
 - **[guilhermemm.com](https://guilhermemm.com)** — My portfolio
 - **[Street OS](https://guilhermemartins-gmm.github.io/StreetOS/)** — A Web OS
 
-## Technologies
+<h2>Technologies</h2>
+
 In order of knowledge <-
+
 <p align="left"> <img src="https://cdn.simpleicons.org/cplusplus" width="42" height="42" style="border-radius: 12px;" title="C++" /> &nbsp; <img src="https://cdn.simpleicons.org/css" width="42" height="42" style="border-radius: 12px;" title="CSS" /> &nbsp; <img src="https://cdn.simpleicons.org/html5" width="42" height="42" style="border-radius: 12px;" title="HTML" /> &nbsp; <img src="https://cdn.simpleicons.org/javascript" width="42" height="42" style="border-radius: 12px;" title="JavaScript" /> </p>
