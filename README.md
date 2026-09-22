@@ -1,21 +1,20 @@
-<div>
-  <big><big><strong>Hello, I'm GMM!</strong></big></big>
-</div>
+<p>
+  <strong><big><big>Hello, I'm GMM.</big></big></strong>
+</p>
 
-<div>
-  <big><strong>Guilherme Martins de Magalhães</strong></big>
-</div>
+<p>
+  <strong>Guilherme Martins de Magalhães</strong>
+</p>
 
-<div>
-  <big><strong>Chemistry | Competitive Programmer | Web</strong></big>
-</div>
-
+<p>
+  <strong>Chemistry | Competitive Programmer | Web</strong>
+</p>
 
 <p>
   <strong><big>Projects</big></strong>
 </p>
 
-- **[guilhermemm.com](https://guilhermemm.com)** — My portfolio
+- **[Guilhermemm.com](https://guilhermemm.com)** — My portfolio
 - **[Street OS](https://guilhermemartins-gmm.github.io/StreetOS/)** — A Web OS
 
 <p>
