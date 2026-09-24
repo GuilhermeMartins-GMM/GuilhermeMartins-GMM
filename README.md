@@ -32,6 +32,6 @@ In order of knowledge <-
 
 GitHub Stats:
 <div align="center"> <picture> <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=GuilhermeMartins-GMM&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="165" /> </picture> <picture> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=GuilhermeMartins-GMM&theme=shadow_blue&hide_border=false" height="165" /> </picture> <picture> <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMartins-GMM&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" /> </picture> </div>
-🏆GitHub Trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GuilhermeMartins-GMM&theme=algolia&no-frame=true&no-bg=false&margin-w=4)](https://github.com/GuilhermeMartins-GMM)
+
+[![🏆GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GuilhermeMartins-GMM&theme=algolia&no-frame=true&no-bg=false&margin-w=4)](https://github.com/GuilhermeMartins-GMM)
 
