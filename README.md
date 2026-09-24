@@ -35,4 +35,7 @@ GitHub Stats:
 
 🏆 GitHub Trophies
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GuilhermeMartins-GMM&theme=algolia&no-frame=true&no-bg=false&margin-w=4)](https://github.com/GuilhermeMartins-GMM)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GuilhermeMartins-GMM&theme=algolia&no-frame=true&no-bg=true&column=7" />
+</div>
+
